@@ -133,7 +133,7 @@
           - 🟥 【ver 3】: JavaScript でバイナリ画像データを作成して ajax でアップロード
           - 🟥 【ver 4】: WebRTC > カメラ画像 > バイナリデータ > ajax でアップロード
           - 🟥 【ver 5】: 複数ファイル選択 > バイナリ画像データ > ajax でアップロード
-          - 🟥 【ver 6】: 複数ファイルドラッグ-ドロップ > バイナリ画像データ > ajax でアップロード
+          - 🟥 【ver 6】: ファイルドラッグ-ドロップ > バイナリ画像データ > ajax でアップロード
 
         - [📕 php-git-🟥 【TCPDF】](https://replit.com/@sworc/php-git-TCPDF)
           - 🟥 【TCPDF ver 1】: 社員一覧印刷処理 / FONTダウンロード > ( 梅明朝 )
