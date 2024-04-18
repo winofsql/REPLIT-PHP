@@ -32,9 +32,8 @@
 
         ![image](https://github.com/winofsql/REPLIT-Java-PHP-js-Python/assets/1501327/f44ab77f-9754-4b20-b68a-30d5e5290bd2)
 
-      - [📕 クリップボード : 画面上のデータをクリップボードにコピー](https://replit.com/@sworc/js-clipboard)  
-
       - ### 🔷 ライブラリ
+        - [📕 クリップボード : 画面上のデータをクリップボードにコピー](https://replit.com/@sworc/js-clipboard)  
         - [📕 バルーンによるコンテンツ説明](https://replit.com/@sworc/js-balloon)  
       
   - ### ✅ WEB
