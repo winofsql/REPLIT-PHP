@@ -45,6 +45,7 @@
     - ### 🔶Browser
       - ### 🔷 特殊な処理
         - [📕 PHP でファイルをダウンロード](https://replit.com/@sworc/php-download)
+        - [📕 PHP でファイルを zip でウンロード](https://replit.com/@sworc/php-zip-download)
 
       - ### 🔷 SQLite3
         - [📕 PDO で簡単なデータアクセス](https://replit.com/@sworc/php-sqlite3-easy-access)
