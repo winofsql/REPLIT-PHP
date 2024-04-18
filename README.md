@@ -35,9 +35,10 @@
       - ### 🔷 ライブラリ
         - [📕 クリップボード : 画面上のデータをクリップボードにコピー](https://replit.com/@sworc/js-clipboard)  
         - [📕 バルーンによるコンテンツ説明](https://replit.com/@sworc/js-balloon)
-        - [📕 円グラフ ( Google Chart )](https://replit.com/@sworc/js-pie-chart)
+        - Google Chart
+          - [📕 円グラフ ( Google Chart )](https://replit.com/@sworc/js-pie-chart)
 
-          ![image](https://github.com/winofsql/REPLIT-PHP/assets/1501327/ad5a0d0a-f2c3-43af-8af1-dbfd1cc24ae0)
+            ![image](https://github.com/winofsql/REPLIT-PHP/assets/1501327/af5a02e1-02b8-4ea7-8fbb-9abec38e0faa)
       
   - ### ✅ WEB
 
