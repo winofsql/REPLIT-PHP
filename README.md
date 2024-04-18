@@ -183,10 +183,10 @@
 
   - ### ✅ HTML ( CSS )
       - ### 🔷 入力
-        - [HTML5 FORM VALIDATIONS WITH PATTERN MATCHING](https://codingcage.com/2015/03/html5-form-validations-with-pattern.html)
+        - [🟥 HTML5 FORM VALIDATIONS WITH PATTERN MATCHING](https://codingcage.com/2015/03/html5-form-validations-with-pattern.html)
 
 
-
+<br>
 
 
 - ### 📘 [php](https://www.php.net/manual/ja/)
