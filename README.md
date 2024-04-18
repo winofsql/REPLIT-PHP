@@ -184,6 +184,7 @@
   - ### ✅ HTML ( CSS )
       - ### 🔷 入力
         - [🟥 HTML5 FORM VALIDATIONS WITH PATTERN MATCHING](https://codingcage.com/2015/03/html5-form-validations-with-pattern.html)
+        - [📕 INPUT pattern チェック](https://replit.com/@sworc/html-input-pattern)
 
 
 <br><br>
