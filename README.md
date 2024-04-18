@@ -177,6 +177,12 @@
 
         - [📕 Replit テンプレート](https://replit.com/@sworc/replit-3d-three-js)
 
+  - ### ✅ JavaScript : Basic
+      - ### 🔷 DOM
+        - [📕 無名 function](https://replit.com/@sworc/js-anonymous-funcion)
+   
+
+
 <br><hr><br>
 
 - ### 📘 [php](https://www.php.net/manual/ja/)
