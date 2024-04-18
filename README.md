@@ -189,6 +189,7 @@
 
 <br><br>
 
+- ### 📘 [Shell コマンド](https://qiita.com/kjm_nuco/items/6a4faf4d026d130e7db1)
 
 - ### 📘 [php](https://www.php.net/manual/ja/)
   - [スーパーグローバル](https://www.php.net/manual/ja/language.variables.superglobals.php)
