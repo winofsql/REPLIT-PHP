@@ -1,6 +1,6 @@
 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [GitHub](#-github-よりインストール-) | [API](#-api-) | [Ajax](#-ajax-) |  |   |   |   |   |   | [🔸HTML](#-html--css--)<br>[🔸入力](#-入力) | 
+| [GitHub](#-github-よりインストール-) | [API](#-api-) | [Ajax](#-ajax-) |  |   |   |   |   |   | [🔸HTML](#-html--css--)<br>[🔸入力](#-入力-) | 
 
 
 
@@ -191,7 +191,7 @@
       - ### 🔷 ドキュメント
         - [🟥 HTML5 FORM VALIDATIONS WITH PATTERN MATCHING](https://codingcage.com/2015/03/html5-form-validations-with-pattern.html)
         - [🟥 The HTML Data List element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/datalist)
-      - ### 🔷 入力
+      - ### 🔷 入力 [🔼](#)
         - [📕 INPUT pattern チェック](https://replit.com/@sworc/html-input-pattern)
 
 
