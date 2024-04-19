@@ -40,7 +40,7 @@
         ![image](https://github.com/winofsql/REPLIT-Java-PHP-js-Python/assets/1501327/f44ab77f-9754-4b20-b68a-30d5e5290bd2)
 
       - ### 🔷 ライブラリ
-        - [📕 クリップボード : 画面上のデータをクリップボードにコピー](https://replit.com/@sworc/js-clipboard)  
+        - #### [📕 クリップボード : 画面上のデータをクリップボードにコピー](https://replit.com/@sworc/js-clipboard)  
         - [📕 バルーンによるコンテンツ説明](https://replit.com/@sworc/js-balloon)
         - #### Google Chart : [参考 > スプレッドシートの呼び出し](https://qiita.com/su8/items/534dd3654e6aac38a294)
           - [📕 円グラフ ( Google Chart )](https://replit.com/@sworc/js-pie-chart)
