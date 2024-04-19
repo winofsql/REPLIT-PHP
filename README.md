@@ -1,3 +1,5 @@
+[GitHub](#-github-よりインストール)
+
 - ### 📗 PHP
   - [📕 Replit で php.ini を使用する](https://replit.com/@sworc/php-ini-local)
   - ### ✅ Console : CLI（Command Line Interface）
