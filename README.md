@@ -25,7 +25,7 @@
       - [📕 アップロード](https://replit.com/@sworc/js-ajax-upload)
       - [📕 外部JSON からテーブル](https://replit.com/@sworc/js-ajax-table)
         - [SQLite3 の内容を JSON で取得 ( WEB > API )](https://replit.com/@sworc/php-json-syain-sqlite3) の実行 URL を使用
-    - ### 🔶 Local-File
+    - ### 🔶 Local-File [🔼](#)
       - [📕 テキストエディタ](https://replit.com/@sworc/js-text-editor)
         - JavaScript で テキストを読み込み ( FileReader )・保存 ( FileSaver.js )
         - JavaScript でキャラクタセット変換 ( encoding.js )
@@ -33,13 +33,13 @@
 
         ![image](https://github.com/winofsql/REPLIT-Java-PHP-js-Python/assets/1501327/db8357a4-cd38-4573-90e8-b78e8dd79b10)
 
-    - ### 🔶 その他
+    - ### 🔶 その他 [🔼](#)
       - [📕 localStorage : 日記作成と読み出し](https://replit.com/@sworc/js-localstorage)
         - 日付部分は jQueryUI の [Datepicker](https://jqueryui.com/datepicker/)
 
         ![image](https://github.com/winofsql/REPLIT-Java-PHP-js-Python/assets/1501327/f44ab77f-9754-4b20-b68a-30d5e5290bd2)
 
-      - ### 🔷 ライブラリ
+      - ### 🔷 ライブラリ [🔼](#)
         - #### [📕 クリップボード : 画面上のデータをクリップボードにコピー](https://replit.com/@sworc/js-clipboard)  
         - [📕 バルーンによるコンテンツ説明](https://replit.com/@sworc/js-balloon)
         - #### Google Chart : [参考 > スプレッドシートの呼び出し](https://qiita.com/su8/items/534dd3654e6aac38a294)
@@ -55,12 +55,12 @@
       - [📕 POST のテスト用ターゲット](https://replit.com/@sworc/php-post-test)
       - [📕 SQLite3 の内容を JSON で取得](https://replit.com/@sworc/php-json-syain-sqlite3)
 
-    - ### 🔶Browser
-      - ### 🔷 特殊な処理
+    - ### 🔶Browser [🔼](#)
+      - ### 🔷 特殊な処理 [🔼](#)
         - [📕 PHP でファイルをダウンロード](https://replit.com/@sworc/php-download)
         - [📕 PHP でファイルを zip でウンロード](https://replit.com/@sworc/php-zip-download)
 
-      - ### 🔷 SQLite3
+      - ### 🔷 SQLite3 [🔼](#)
         - [📕 PDO で簡単なデータアクセス](https://replit.com/@sworc/php-sqlite3-easy-access)
           - 🟥 【PDO select ver 1】: 社員マスタ 1 / 連想配列の列名指定
           - 🟥 【PDO select ver 2】: 社員マスタ 2 / for で全ての列データ > テーブル
@@ -155,7 +155,7 @@
           - 🟥 【TCPDF ver 3】: 社員一覧印刷処理 ( 出力レイアウトのコントロール )
           - 🟥 【TCPDF ver 4】: 社員一覧印刷処理 ( 合計・テキスト効果 )      
 
-      - ### 🔷 JavaScript Effect : 外部ライブラリ
+      - ### 🔷 JavaScript Effect : 外部ライブラリ [🔼](#)
         - ### 2D ゲーム作成
           - [📕 createjs-2-move-image](https://replit.com/@sworc/createjs-2-move-image) : 画像処理
             
@@ -176,19 +176,19 @@
          
             ![image](https://github.com/winofsql/REPLIT-Java-PHP-js-Python/assets/1501327/08ae27f4-956d-4ae1-804d-1bb4caafd543)
  
-      - ### 🔷 Three.js : 3D
+      - ### 🔷 Three.js : 3D [🔼](#)
         - [📕 three-flying](https://replit.com/@sworc/three-flying)
 
          ![image](https://github.com/winofsql/REPLIT-Java-PHP-js-Python/assets/1501327/45ce8bf3-4529-4c8f-9b11-8d5398288a13)
 
         - [📕 Replit テンプレート](https://replit.com/@sworc/replit-3d-three-js)
 
-  - ### ✅ JavaScript : Basic
-      - ### 🔷 DOM
+  - ### ✅ JavaScript : Basic [🔼](#)
+      - ### 🔷 DOM [🔼](#)
         - [📕 無名 function](https://replit.com/@sworc/js-anonymous-funcion)
 
   - ### ✅ HTML ( CSS ) [🔼](#)
-      - ### 🔷 ドキュメント
+      - ### 🔷 ドキュメント [🔼](#)
         - [🟥 HTML5 FORM VALIDATIONS WITH PATTERN MATCHING](https://codingcage.com/2015/03/html5-form-validations-with-pattern.html)
         - [🟥 The HTML Data List element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/datalist)
       - ### 🔷 入力 [🔼](#)
