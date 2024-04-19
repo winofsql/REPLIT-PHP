@@ -184,6 +184,9 @@
         - [📕 Replit テンプレート](https://replit.com/@sworc/replit-3d-three-js)
 
   - ### ✅ JavaScript : Basic [🔼](#)
+      - ### 🔷 オブジェクト [🔼](#)
+        - [📕 String](https://replit.com/@sworc/js-string-method)
+
       - ### 🔷 DOM [🔼](#)
         - [📕 無名 function](https://replit.com/@sworc/js-anonymous-funcion)
 
