@@ -197,9 +197,9 @@
 
 <br><br>
 
-- ### 📘 [Shell コマンド](https://qiita.com/kjm_nuco/items/6a4faf4d026d130e7db1)
+- ### 📘 [Shell コマンド](https://qiita.com/kjm_nuco/items/6a4faf4d026d130e7db1) [🔼](#)
 
-- ### 📘 [php](https://www.php.net/manual/ja/)
+- ### 📘 [php](https://www.php.net/manual/ja/) [🔼](#)
   - [スーパーグローバル](https://www.php.net/manual/ja/language.variables.superglobals.php)
   - [文字列](https://www.php.net/manual/ja/language.types.string.php)
     - [String 関数](https://www.php.net/manual/ja/ref.strings.php)
@@ -220,7 +220,7 @@
     - [📘 GitHub : 印刷出力レイアウトのコントロール](https://github.com/winofsql/php-print-v02-format-control)
     - [📘 GitHub : 罫線とテキスト効果( ドロップシャドウ・文字色・文字枠線 )](https://github.com/winofsql/php-print-v03-line-sum-text-effect)
 
-- ### 📙 [jQuery](https://api.jquery.com/)
+- ### 📙 [jQuery](https://api.jquery.com/) [🔼](#)
   - 🔶 **【値】**
     - [.val()](https://api.jquery.com/val/)
     - [.text()](https://api.jquery.com/text/)
@@ -244,7 +244,7 @@
     - [.on("event", handler)](https://api.jquery.com/on/)
     - [.ready()](https://api.jquery.com/ready/)
 
-- ### 📒 JavaScript
+- ### 📒 JavaScript [🔼](#)
   - [🔷 Document](https://developer.mozilla.org/ja/docs/Web/API/Document)
     - [createElement()](https://developer.mozilla.org/ja/docs/Web/API/Document/createElement)
     - [getElementById(id)](https://developer.mozilla.org/ja/docs/Web/API/Document/getElementById)
@@ -265,7 +265,7 @@
   - 🚋 その他
     - [無名 function の実行](https://replit.com/@sworc/js-anonymous-funcion#index.html)
 
-- ### 📔 [HTML](http://www.htmq.com/html/)
+- ### 📔 [HTML](http://www.htmq.com/html/) [🔼](#)
   - [FORM](http://www.htmq.com/html/form.shtml)
     - [INPUT type="text"](http://www.htmq.com/html/input_text.shtml)
       - [checkbox](http://www.htmq.com/html/input_checkbox.shtml)
