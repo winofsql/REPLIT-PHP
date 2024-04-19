@@ -192,7 +192,7 @@
         - [🟥 HTML5 FORM VALIDATIONS WITH PATTERN MATCHING](https://codingcage.com/2015/03/html5-form-validations-with-pattern.html)
         - [🟥 The HTML Data List element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/datalist)
       - ### 🔷 入力 [🔼](#)
-        - [📕 INPUT pattern チェック](https://replit.com/@sworc/html-input-pattern)
+        - [📕 INPUT pattern チェック](https://replit.com/@sworc/html-input-pattern-action)
 
 
 <br><br>
