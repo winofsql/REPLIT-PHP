@@ -42,7 +42,7 @@
       - ### 🔷 ライブラリ
         - [📕 クリップボード : 画面上のデータをクリップボードにコピー](https://replit.com/@sworc/js-clipboard)  
         - [📕 バルーンによるコンテンツ説明](https://replit.com/@sworc/js-balloon)
-        - Google Chart : [参考 > スプレッドシートの呼び出し](https://qiita.com/su8/items/534dd3654e6aac38a294)
+        - ##### Google Chart : [参考 > スプレッドシートの呼び出し](https://qiita.com/su8/items/534dd3654e6aac38a294)
           - [📕 円グラフ ( Google Chart )](https://replit.com/@sworc/js-pie-chart)
 
             ![image](https://github.com/winofsql/REPLIT-PHP/assets/1501327/af5a02e1-02b8-4ea7-8fbb-9abec38e0faa)
