@@ -15,9 +15,6 @@
       - sticky によるタイトル上部固定
 
   - ### ✅ JavaScript : 機能
-    - ### 🔶 特殊 [🔼](#)
-      - [📕 機械音声スピーチ](https://replit.com/@sworc/js-speech)
-
     - ### 🔶 Ajax [🔼](#)
       - [📕 GET](https://replit.com/@sworc/js-ajax-get) : [POST のテスト用ターゲット ( WEB > API )](https://replit.com/@sworc/php-post-test) の実行 URL を使用
 
@@ -50,6 +47,9 @@
             ![image](https://github.com/winofsql/REPLIT-PHP/assets/1501327/af5a02e1-02b8-4ea7-8fbb-9abec38e0faa)
 
           - [📕 折れ線グラフ ( Google Chart )](https://replit.com/@sworc/js-line-chart)
+
+    - ### 🔶 特殊 [🔼](#)
+      - [📕 機械音声スピーチ](https://replit.com/@sworc/js-speech)
 
   - ### ✅ WEB
 
