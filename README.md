@@ -1,6 +1,6 @@
 | Ａ | Ｂ | Ｃ | Ｄ | Ｅ | Ｆ | Ｇ | Ｈ | Ｉ | Ｊ | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [GitHub](#-github-よりインストール-) | [API](#-api-) | [Ajax](#-ajax-) | [PHP:特殊](#-特殊な処理-)<br>[SQLite3](#-sqlite3-) | [JavaScript](#-その他-)<br>🔸[LocalFile](#-local-file-)<br>🔸[Basic](#-javascript--basic-)<br>🔸[Effect](#-javascript-effect--外部ライブラリ-)<br>🔸[特殊](#-特殊-) |   |   |   |   | [HTML アプローチ](#-html--css--)<br>🔸[入力](#-入力-) | 
+| [GitHub](#-github-よりインストール-) | [API](#-api-) | [Ajax](#-ajax-) | [PHP:特殊](#-特殊な処理-)<br>[SQLite3](#-sqlite3-) |   |   |   | [HTML アプローチ](#-html--css--)<br>🔸[入力](#-入力-) |   | [JavaScript](#-その他-)<br>🔸[LocalFile](#-local-file-)<br>🔸[Basic](#-javascript--basic-)<br>🔸[Effect](#-javascript-effect--外部ライブラリ-)<br>🔸[特殊](#-特殊-) | 
 
 
 
