@@ -15,7 +15,9 @@
       - sticky によるタイトル上部固定
 
   - ### ✅ JavaScript : 機能
-    - [📕 機械音声スピーチ](https://replit.com/@sworc/js-speech)
+    - ### 🔶 特殊 [🔼](#)
+      - [📕 機械音声スピーチ](https://replit.com/@sworc/js-speech)
+
     - ### 🔶 Ajax [🔼](#)
       - [📕 GET](https://replit.com/@sworc/js-ajax-get) : [POST のテスト用ターゲット ( WEB > API )](https://replit.com/@sworc/php-post-test) の実行 URL を使用
 
