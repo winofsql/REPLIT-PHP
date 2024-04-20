@@ -76,7 +76,7 @@
           - 🟥 【PDO select ver 4】使用して内容表示
 
       - ### 🔷 GitHub よりインストール [🔼](#)
-        - [📕 php-git-🟥 【掲示板】MVC 掲示板 : テキストファイル](https://replit.com/@sworc/php-git-Jie-Shi-Ban-MVC-Jie-Shi-Ban-tekisutohuairu)
+        - ##### [📕 php-git-🟥 【掲示板】MVC 掲示板 : テキストファイル](https://replit.com/@sworc/php-git-Jie-Shi-Ban-MVC-Jie-Shi-Ban-tekisutohuairu)
           - インスト－ル( Shellにて )
             ```
             . 0
