@@ -123,7 +123,7 @@
           - 🟥 【マスタメンテ ver 12】: PHP 管理者の IFRAME 問い合わせ参照
           - 🟥 【マスタメンテ ver 13】: PHP 社員コードの IFRAME 問い合わせ参照
           - 🟥 【マスタメンテ ver 14】: PHP 社員一覧印刷処理( TCPDF )        
-        - #### [📕 php-git-🟥 【PDO + sqlite : 問い合わせ】/ 9種類 : うち1つは Ajax](https://replit.com/@sworc/php-git-PDO-Wen-iHe-wase)
+        - #### [📕 php-git-🟥 【PDO + sqlite : 問い合わせ】/ 10種類 : うち2つは Ajax](https://replit.com/@sworc/php-git-PDO-Wen-iHe-wase)
           - インスト－ル( Shellにて )
             ```
             . 0
