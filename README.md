@@ -76,7 +76,7 @@
           - 🟥 【PDO select ver 4】使用して内容表示
 
       - ### 🔷 GitHub よりインストール [🔼](#)
-        - ##### [📕 php-git-🟥 【掲示板】MVC 掲示板 : テキストファイル](https://replit.com/@sworc/php-git-Jie-Shi-Ban-MVC-Jie-Shi-Ban-tekisutohuairu)
+        - #### [📕 php-git-🟥 【掲示板】MVC 掲示板 : テキストファイル](https://replit.com/@sworc/php-git-Jie-Shi-Ban-MVC-Jie-Shi-Ban-tekisutohuairu)
           - インスト－ル( Shellにて )
             ```
             . 0
@@ -86,7 +86,7 @@
           - 🟥 【掲示板 ver 4】MVC 掲示板 : IFRAME テキストファイル 標準化
           - 🟥 【掲示板 ver 5】MVC 掲示板 : IFRAME JSON
 
-        - [📕 php-git-🟥 【掲示板】MVC掲示板 : データベース](https://replit.com/@sworc/php-git-Jie-Shi-Ban-MVCJie-Shi-Ban-detabesu)
+        - #### [📕 php-git-🟥 【掲示板】MVC掲示板 : データベース](https://replit.com/@sworc/php-git-Jie-Shi-Ban-MVCJie-Shi-Ban-detabesu)
           - インスト－ル( Shellにて )
             ```
             . v06
@@ -103,7 +103,7 @@
           - 🟥 【掲示板 ver 14】MVC 掲示板 : 新規投稿で画像をアップロード
           - 🟥 【掲示板 ver 15】MVC 掲示板 : Lightbox2 で画像表示
           - 🟥 【掲示板 ver 16】MVC 掲示板 : 画像を縮小してサムネイルとして使用する
-        - [📕 php-git-🟥 【PDO + sqlite : マスタメンテ】/ 14種類 】](https://replit.com/@sworc/php-git-PDO-masutamente)
+        - #### [📕 php-git-🟥 【PDO + sqlite : マスタメンテ】/ 14種類 】](https://replit.com/@sworc/php-git-PDO-masutamente)
           - インスト－ル( Shellにて )
             ```
             . 0
@@ -123,7 +123,7 @@
           - 🟥 【マスタメンテ ver 12】: PHP 管理者の IFRAME 問い合わせ参照
           - 🟥 【マスタメンテ ver 13】: PHP 社員コードの IFRAME 問い合わせ参照
           - 🟥 【マスタメンテ ver 14】: PHP 社員一覧印刷処理( TCPDF )        
-        - [📕 php-git-🟥 【PDO + sqlite : 問い合わせ】/ 9種類 : うち1つは Ajax](https://replit.com/@sworc/php-git-PDO-Wen-iHe-wase)
+        - #### [📕 php-git-🟥 【PDO + sqlite : 問い合わせ】/ 9種類 : うち1つは Ajax](https://replit.com/@sworc/php-git-PDO-Wen-iHe-wase)
           - インスト－ル( Shellにて )
             ```
             . 0
@@ -139,7 +139,7 @@
           - 🟥 【問合せ ver 8】: PHP 行転送先の更新
           - 🟥 【ajax 問合せ ver 1】: CSS によるテーブル部分のスクロール
           - 🟥 【ajax 問合せ ver 2】: 行単位での給与の入力結果を ajax で送ってログで確認
-        - [📕 php-git-🟥 【アップロード】](https://replit.com/@sworc/php-git-atupurodo)
+        - #### [📕 php-git-🟥 【アップロード】](https://replit.com/@sworc/php-git-atupurodo)
           - インスト－ル( Shellにて )
             ```
             . 0
@@ -151,7 +151,7 @@
           - 🟥 【ver 5】: 複数ファイル選択 > バイナリ画像データ > ajax でアップロード
           - 🟥 【ver 6】: ファイルドラッグ-ドロップ > バイナリ画像データ > ajax でアップロード
 
-        - [📕 php-git-🟥 【TCPDF】](https://replit.com/@sworc/php-git-TCPDF)
+        - #### [📕 php-git-🟥 【TCPDF】](https://replit.com/@sworc/php-git-TCPDF)
           - 🟥 【TCPDF ver 1】: 社員一覧印刷処理 / FONTダウンロード > ( 梅明朝 )
           - 🟥 【TCPDF ver 2】: 社員一覧印刷処理 ( 梅ゴシック使用・タイトルサイズ変更 )
           - 🟥 【TCPDF ver 3】: 社員一覧印刷処理 ( 出力レイアウトのコントロール )
