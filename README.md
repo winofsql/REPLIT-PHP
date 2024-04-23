@@ -205,6 +205,7 @@
 
 
 <br><br>
+![image](https://winofsql.jp/image/a/GenShinGothic-Heavy.png)
 
 - ### 📘 [Shell コマンド](https://qiita.com/kjm_nuco/items/6a4faf4d026d130e7db1) [🔼](#)
 
