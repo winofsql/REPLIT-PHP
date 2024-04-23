@@ -206,6 +206,7 @@
       - ### 🔷 ドキュメント [🔼](#)
         - [🟥 HTML 属性: placeholder](https://developer.mozilla.org/ja/docs/Web/HTML/Attributes/placeholder)
         - [🟥 HTML 要素: datalist](https://developer.mozilla.org/ja/docs/Web/HTML/Element/datalist)
+        - [🟥 HTML 要素: optgroup : コンボボックス用](https://developer.mozilla.org/ja/docs/Web/HTML/Element/optgroup)
       - ### 🔷 入力 [🔼](#)
         - [📕 INPUT pattern チェック](https://replit.com/@sworc/html-input-pattern-action)
 
