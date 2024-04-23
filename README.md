@@ -66,6 +66,10 @@
       - ### 🔷 画像処理 [🔼](#)
         - [📕 ImageMagick でボタン作成](https://replit.com/@sworc/php-imagick-button)
         - [📕 GD で単純な画像処理( 縮小あり )](https://replit.com/@sworc/php-gd-image-reduction)
+          - 🟥 【gd image ver  1】: URL参照の jpg 画像表示
+          - 🟥 【gd image ver  2】: URL参照の jpg 画像縮小表示
+          - 🟥 【gd image ver  3】: 指定大きさの画像を指定色で塗りつぶす
+
 
       - ### 🔷 SQLite3 [🔼](#)
         - [📕 PDO で簡単なデータアクセス](https://replit.com/@sworc/php-sqlite3-easy-access)
