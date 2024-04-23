@@ -2,7 +2,7 @@
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | [API](#-api-)<br>[Ajax](#-ajax-) |   |   | [PHP:特殊](#-特殊な処理-)<br>[画像](#-画像処理-)<br>[SQLite3](#-sqlite3-) |   |   | [GitHub](#-github-よりインストール--)<br>🔸[掲示板(text)](#-php-git--掲示板mvc-掲示板--テキストファイル-)<br>🔸[掲示板(db)](#-php-git--掲示板mvc掲示板--データベース-)<br>🔸[マスタメンテ](#-php-git--pdo--sqlite--マスタメンテ-14種類--)<br>🔸[問合せ](#-php-git--pdo--sqlite--問い合わせ-10種類--うち2つは-ajax-)<br>🔸[アップロード](#-php-git--アップロード-)<br>🔸[ＴＣＰＤＦ](#-php-git--tcpdf-) | [HTML アプローチ](#-html--css--)<br>🔸[入力](#-入力-) |   | [JavaScript](#-その他-)<br>🔸[LocalFile](#-local-file-)<br>🔸[Basic](#-javascript--basic-)<br>🔸[Effect](#-javascript-effect--外部ライブラリ-)<br>🔸[特殊](#-特殊-) | 
 
-
+![image](https://winofsql.jp/image/a/replit-education.png)
 
 - ### 📗 PHP
   - [📕 Replit で php.ini を使用する](https://replit.com/@sworc/php-ini-local)
