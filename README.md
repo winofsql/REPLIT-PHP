@@ -65,7 +65,7 @@
 
       - ### 🔷 画像処理 [🔼](#)
         - [📕 ImageMagick でボタン作成](https://replit.com/@sworc/php-imagick-button)
-        - [📕 ImageMagick で単純な画像処理( 縮小あり )](https://replit.com/@sworc/php-gd-image-reduction)
+        - [📕 GD で単純な画像処理( 縮小あり )](https://replit.com/@sworc/php-gd-image-reduction)
 
       - ### 🔷 SQLite3 [🔼](#)
         - [📕 PDO で簡単なデータアクセス](https://replit.com/@sworc/php-sqlite3-easy-access)
