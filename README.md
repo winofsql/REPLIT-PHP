@@ -204,7 +204,7 @@
 
   - ### ✅ HTML ( CSS ) [🔼](#)
       - ### 🔷 ドキュメント [🔼](#)
-        - [🟥 The HTML Data List element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/datalist)
+        - [🟥 The HTML Data List element](https://developer.mozilla.org/ja/docs/Web/HTML/Element/datalist)
       - ### 🔷 入力 [🔼](#)
         - [📕 INPUT pattern チェック](https://replit.com/@sworc/html-input-pattern-action)
 
