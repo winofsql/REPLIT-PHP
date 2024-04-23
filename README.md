@@ -50,6 +50,7 @@
           - [📕 折れ線グラフ ( Google Chart )](https://replit.com/@sworc/js-line-chart)
 
     - ### 🔶 特殊 [🔼](#)
+      - [📕 フルスクリーン API](https://replit.com/@sworc/js-fullscreen)
       - [📕 機械音声スピーチ](https://replit.com/@sworc/js-speech)
 
   - ### ✅ WEB
