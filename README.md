@@ -14,6 +14,7 @@
   - ### ✅ CSS [🔼](#)
     - [📕 テーブルタイトルコントロール : position: sticky](https://replit.com/@sworc/css-table-control)
       - sticky によるタイトル上部固定
+    - [📕 CSS のドロップシャドウのパラメータ作成](https://replit.com/@sworc/js-make-css-drop-shadow)
 
   - ### ✅ JavaScript : 機能
     - ### 🔶 Ajax [🔼](#)
