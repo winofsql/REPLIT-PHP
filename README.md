@@ -55,7 +55,9 @@
       - [📕 四角形 <=> 円 のモーフィングアニメーション](https://replit.com/@sworc/js-box-circle-morphing)
       - [📕 フルスクリーン API](https://replit.com/@sworc/js-fullscreen)
       - [📕 機械音声スピーチ](https://replit.com/@sworc/js-speech)
-
+     
+    - ### 🔶 カメラ [🔼](#)
+      - [カメラの表示( 無い場合は動画 )](https://replit.com/@sworc/js-camera)
   - ### ✅ WEB
 
     - ### 🔶 API [🔼](#)
