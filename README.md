@@ -208,7 +208,7 @@
           - 🟥 【Form Check ver 1】: 入力文字数チェック : JavaScript
           - 🟥 【Form Check ver 2】: 未入力・数字チェック : jQuery( & JS ) : datalist : toastr.js
           - 🟥 【Form Check ver 3】: エラーを全て表示 : jQuery( & JS ) : datalist
-          - 🟥 【Form Check ver 4】: エラーを全て表示 : jQuery : datalist : toastr.js
+          - 🟥 【Form Check ver 4】: エラーを全て表示 : jQuery : datalist
         - [📕 FORM 送信時、クリックしたボタンを判断する](https://replit.com/@sworc/js-check-submit-button)
 
   - ### ✅ HTML ( CSS ) [🔼](#)
