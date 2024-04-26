@@ -223,6 +223,14 @@
         - 
       - ### 🔷 jQuery UI [🔼](#)
         - [📕 jQuery UI の Spinner を使った増減コントロール](https://replit.com/@sworc/js-jquery-ui-spinner)
+        - [📕 Datepicker](https://replit.com/@sworc/js-jquery-ui-datepicker)
+          - 🟥 【Datepicker ver 1】: yareRange なし ( 前10年・後10年の選択肢 )
+          - 🟥 【Datepicker ver 2】: cは当年 c-3:c+3
+          - 🟥 【Datepicker ver 3】: altFormat で日本語表現を追加
+          - 🟥 【Datepicker ver 4】: ボタンで開く
+          - 🟥 【Datepicker ver 5】: 仮想ダイアログとして開く
+          - 🟥 【Datepicker ver 6】: 月を変更可
+          - 🟥 【Datepicker ver 7】: 前後の月を表示して選択可能にする
 
   - ### ✅ HTML ( CSS ) [🔼](#)
       - ### 🔷 ドキュメント [🔼](#)
