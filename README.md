@@ -208,8 +208,6 @@
       - ### 🔷 オブジェクト [🔼](#)
         - [📕 String](https://replit.com/@sworc/js-string-method)
 
-      - ### 🔷 jQuery [🔼](#)
-
       - ### 🔷 処理 [🔼](#)
         - [📕 無名 function](https://replit.com/@sworc/js-anonymous-funcion)
         - [📕 FORM 入力チェック](https://replit.com/@sworc/js-form-check)
