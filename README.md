@@ -209,8 +209,6 @@
         - [📕 String](https://replit.com/@sworc/js-string-method)
 
       - ### 🔷 jQuery [🔼](#)
-        - [📕 各種入力コントロールの動的作成](https://replit.com/@sworc/js-jquery-build-input)
-        - [📕 jQuery UI の Spinner を使った増減コントロール](https://replit.com/@sworc/js-jquery-ui-spinner)
 
       - ### 🔷 処理 [🔼](#)
         - [📕 無名 function](https://replit.com/@sworc/js-anonymous-funcion)
@@ -220,6 +218,13 @@
           - 🟥 【Form Check ver 3】: エラーを全て表示 : jQuery( & JS ) : datalist
           - 🟥 【Form Check ver 4】: エラーを全て表示 : jQuery : datalist
         - [📕 FORM 送信時、クリックしたボタンを判断する](https://replit.com/@sworc/js-check-submit-button)
+
+  - ### ✅ jQuery [🔼](#)
+      - ### 🔷 入力 [🔼](#)
+        - [📕 各種入力コントロールの動的作成](https://replit.com/@sworc/js-jquery-build-input)
+        - 
+      - ### 🔷 jQuery UI [🔼](#)
+        - [📕 jQuery UI の Spinner を使った増減コントロール](https://replit.com/@sworc/js-jquery-ui-spinner)
 
   - ### ✅ HTML ( CSS ) [🔼](#)
       - ### 🔷 ドキュメント [🔼](#)
