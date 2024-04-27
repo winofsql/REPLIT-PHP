@@ -216,6 +216,11 @@
           - 🟥 【Form Check ver 3】: エラーを全て表示 : jQuery( & JS ) : datalist
           - 🟥 【Form Check ver 4】: エラーを全て表示 : jQuery : datalist
         - [📕 FORM 送信時、クリックしたボタンを判断する](https://replit.com/@sworc/js-check-submit-button)
+        - [📕 他のウインドウへのアクセス](https://replit.com/@sworc/js-another-window-access)
+          - 🟥 【Window アクセス ver 1】: window.open 内にアクセス ( 戻り値 )
+          - 🟥 【Window アクセス ver 2】: window.open 内からアクセス ( opener )
+          - 🟥 【Window アクセス ver 3】: IFRAME 内にアクセス( iframe.contentWindow )
+          - 🟥 【Window アクセス ver 4】: IFRAME 内からアクセス ( parent )
 
   - ### ✅ jQuery [🔼](#)
       - ### 🔷 入力要素 [🔼](#)
