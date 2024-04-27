@@ -240,6 +240,9 @@
         - [🟥 HTML 属性: data-*](https://developer.mozilla.org/ja/docs/Learn/HTML/Howto/Use_data_attributes)
       - ### 🔷 入力 [🔼](#)
         - [📕 INPUT pattern チェック](https://replit.com/@sworc/html-input-pattern-action)
+          - 🟥 【INPUT pattern ver 1】: 数字・全角
+          - 🟥 【INPUT pattern ver 2】: 全角カタカナ・全角ひらがな
+          - 🟥 【INPUT pattern ver 3】: 半角
 
 
 <br><br>
