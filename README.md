@@ -4,7 +4,7 @@
 
 - ### 📘 [Shell コマンド](https://qiita.com/kjm_nuco/items/6a4faf4d026d130e7db1)
 
-- ### Replit 上で png 画像作成
+- ### 📘 Replit 上で png 画像作成
   - マークダウンファイルを編集中、クリップボード内の画像を CTRL + V 
 
 ![image](https://winofsql.jp/image/a/replit-education.png)
