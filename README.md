@@ -74,8 +74,8 @@
 
     - ### 🔶Browser [🔼](#)
       - ### 🔷 特殊な処理 [🔼](#)
-        - [📕 PHP でファイルをダウンロード](https://replit.com/@sworc/php-download)
-        - [📕 PHP でファイルを zip でウンロード](https://replit.com/@sworc/php-zip-download)
+        - [📕 PHP 側でファイルをダウンロードさせる処理](https://replit.com/@sworc/php-download)
+        - [📕 PHP でファイルを zip でウンロードさせる処理](https://replit.com/@sworc/php-zip-download)
 
       - ### 🔷 画像処理 [🔼](#)
         - [📕 ImageMagick でボタン作成](https://replit.com/@sworc/php-imagick-button)
