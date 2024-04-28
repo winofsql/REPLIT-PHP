@@ -54,7 +54,7 @@
 
           - [📕 折れ線グラフ ( Google Chart )](https://replit.com/@sworc/js-line-chart)
 
-    - ### 🔶 特殊 [🔼](#)
+    - ### 🔶 特殊(js) [🔼](#)
       - [📕 クリックした要素以外を暗転](https://replit.com/@sworc/js-blackout)
       - [📕 四角形 <=> 円 のモーフィングアニメーション](https://replit.com/@sworc/js-box-circle-morphing)
       - [📕 フルスクリーン API](https://replit.com/@sworc/js-fullscreen)
@@ -73,7 +73,7 @@
       - [📕 SQLite3 の内容を JSON で取得](https://replit.com/@sworc/php-json-syain-sqlite3)
 
     - ### 🔶Browser [🔼](#)
-      - ### 🔷 特殊な処理 [🔼](#)
+      - ### 🔷 特殊(php) [🔼](#)
         - [📕 PHP 側でファイルをダウンロードさせる処理](https://replit.com/@sworc/php-download)
         - [📕 PHP でファイルを zip でウンロードさせる処理](https://replit.com/@sworc/php-zip-download)
 
