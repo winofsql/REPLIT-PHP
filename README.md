@@ -37,6 +37,7 @@
         - JavaScript で テキストを読み込み ( FileReader )・保存 ( FileSaver.js )
         - JavaScript でキャラクタセット変換 ( encoding.js )
       - [📕 Local CSV から JavaScript でテーブル表示 / サーバー CSV をJavaScript でダウンロード](https://replit.com/@sworc/js-csv-table)
+        - ダウンロードは window.open
 
         ![image](https://github.com/winofsql/REPLIT-Java-PHP-js-Python/assets/1501327/db8357a4-cd38-4573-90e8-b78e8dd79b10)
 
