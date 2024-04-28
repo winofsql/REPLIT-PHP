@@ -13,6 +13,7 @@
   - ### ✅ Console : CLI（Command Line Interface） [🔼](#)
     - [📕 explode > 配列 > ループ > implode](https://replit.com/@sworc/php-con-split-loop-3-pattern)
     - [📕 CSVダウンロード > explode](https://replit.com/@sworc/php-con-download-csv-explode-array)
+      - Replit の CSV エディタ と Github の CSV 参照
 
   - ### ✅ CSS [🔼](#)
     - [📕 テーブルタイトルコントロール : position: sticky](https://replit.com/@sworc/css-table-control)
