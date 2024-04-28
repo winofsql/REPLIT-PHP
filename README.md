@@ -2,6 +2,8 @@
 | --- | --- | --- | --- | --- | --- | --- |
 | [API](#-api-)<br>[Ajax](#-ajax-)<br><br><br><br><br><br><br><br><br><br><br> | [CSS](#-css-)<br><br><br><br><br><br><br><br><br><br><br><br> | [特殊](#-特殊php-)<br>[画像](#-画像処理-)<br>[SQLite3](#-sqlite3-)<br><br>[PHP doc](#-php-)<br><br><br><br><br><br><br><br> | 🔸[掲示板(text)](#-php-git--掲示板mvc-掲示板--テキストファイル-)<br>🔸[掲示板(db)](#-php-git--掲示板mvc掲示板--データベース-)<br>🔸[マスタメンテ](#-php-git--pdo--sqlite--マスタメンテ-14種類--)<br>🔸[問合せ](#-php-git--pdo--sqlite--問い合わせ-10種類--うち2つは-ajax-)<br>🔸[アップロード](#-php-git--アップロード-)<br>🔸[TCPDF](#-php-git--tcpdf-)<br><br><br><br><br><br><br> | [入力](#-入力-)<br><br>[HTML doc](#-html-)<br><br><br><br><br><br><br><br><br><br> | 🔸[Basic](#-javascript--basic-)<br>🔸[LocalFile](#-local-file-)<br>🔸[Effect](#-javascript-effect--外部ライブラリ-)<br>🔸[カメラ](#-カメラ-)<br>🔸[特殊](#-特殊js-)<br>　🔹Blackout<br>　🔹Morphing<br>　🔹Fullscreen<br>　🔹Speach<br>　🔹音声認識 <br><br>🔸[JS doc](#-javascript-) | [入力要素](#-入力要素-)<br>[jQuery UI](#-jquery-ui-)<br><br>[jQuery doc](#-jquery--1)<br><br><br><br><br><br><br><br><br> |
 
+- ### 📘 [Shell コマンド](https://qiita.com/kjm_nuco/items/6a4faf4d026d130e7db1) [🔼](#)
+
 - ### Replit 上で png 画像作成
   - マークダウンファイルを編集中、クリップボード内の画像を CTRL + V 
 
@@ -251,8 +253,6 @@
 
 <br><br>
 ![image](https://winofsql.jp/image/a/GenShinGothic-Heavy.png)
-
-- ### 📘 [Shell コマンド](https://qiita.com/kjm_nuco/items/6a4faf4d026d130e7db1) [🔼](#)
 
 - ### 🔷 HTML [🔼](#)
   - [🟥 HTML 要素: datalist](https://developer.mozilla.org/ja/docs/Web/HTML/Element/datalist)
