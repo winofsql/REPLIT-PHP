@@ -242,11 +242,6 @@
           - 🟥 【Datepicker ver 7】: 前後の月を表示して選択可能にする
 
   - ### ✅ HTML ( CSS ) [🔼](#)
-      - ### 🔷 ドキュメント [🔼](#)
-        - [🟥 HTML 要素: datalist](https://developer.mozilla.org/ja/docs/Web/HTML/Element/datalist)
-        - [🟥 HTML 要素: optgroup : コンボボックス用](https://developer.mozilla.org/ja/docs/Web/HTML/Element/optgroup)
-        - [🟥 HTML 属性: placeholder](https://developer.mozilla.org/ja/docs/Web/HTML/Attributes/placeholder)
-        - [🟥 HTML 属性: data-*](https://developer.mozilla.org/ja/docs/Learn/HTML/Howto/Use_data_attributes)
       - ### 🔷 入力 [🔼](#)
         - [📕 INPUT pattern チェック](https://replit.com/@sworc/html-input-pattern-action)
           - 🟥 【INPUT pattern ver 1】: 数字・全角
@@ -258,6 +253,12 @@
 ![image](https://winofsql.jp/image/a/GenShinGothic-Heavy.png)
 
 - ### 📘 [Shell コマンド](https://qiita.com/kjm_nuco/items/6a4faf4d026d130e7db1) [🔼](#)
+
+- ### 🔷 HTML [🔼](#)
+  - [🟥 HTML 要素: datalist](https://developer.mozilla.org/ja/docs/Web/HTML/Element/datalist)
+  - [🟥 HTML 要素: optgroup : コンボボックス用](https://developer.mozilla.org/ja/docs/Web/HTML/Element/optgroup)
+  - [🟥 HTML 属性: placeholder](https://developer.mozilla.org/ja/docs/Web/HTML/Attributes/placeholder)
+  - [🟥 HTML 属性: data-*](https://developer.mozilla.org/ja/docs/Learn/HTML/Howto/Use_data_attributes)
 
 - ### 📘 [php](https://www.php.net/manual/ja/) [🔼](#)
   - [スーパーグローバル](https://www.php.net/manual/ja/language.variables.superglobals.php)
