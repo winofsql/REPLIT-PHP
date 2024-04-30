@@ -233,6 +233,7 @@
           - 🟥 【Window アクセス ver 3】: IFRAME 内にアクセス( iframe.contentWindow )
           - 🟥 【Window アクセス ver 4】: IFRAME 内からアクセス ( parent )
         - [📕 lightbox2 を使用したギャラリー ( 縮小画像なし )](https://replit.com/@sworc/php-image-gallery-lightbox2)
+        - [📕 ギャラリー画像選択 ( Ajax 処理 )](https://replit.com/@sworc/php-image-gallery-select)
 
   - ### ✅ jQuery [🔼](#)
       - ### 🔷 入力要素 [🔼](#)
