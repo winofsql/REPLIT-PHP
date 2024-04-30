@@ -232,6 +232,7 @@
           - 🟥 【Window アクセス ver 2】: window.open 内からアクセス ( opener )
           - 🟥 【Window アクセス ver 3】: IFRAME 内にアクセス( iframe.contentWindow )
           - 🟥 【Window アクセス ver 4】: IFRAME 内からアクセス ( parent )
+        - [📕 lightbox2 を使用したギャラリー](https://replit.com/@sworc/php-image-gallery-lightbox2)
 
   - ### ✅ jQuery [🔼](#)
       - ### 🔷 入力要素 [🔼](#)
