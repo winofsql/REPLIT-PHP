@@ -85,6 +85,8 @@
         - [📕 PHP 側でファイルをダウンロードさせる処理](https://replit.com/@sworc/php-download)
         - [📕 PHP でファイルを zip でウンロードさせる処理](https://replit.com/@sworc/php-zip-download)
         - [📕 PHP で Excel( .xlsx ) を作成する](https://replit.com/@sworc/php-excel)
+          - composer をインストール
+          - composer で、PhpSpreadsheet をインストール
 
       - ### 🔷 画像処理 [🔼](#)
         - [📕 ImageMagick でボタン作成](https://replit.com/@sworc/php-imagick-button)
