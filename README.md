@@ -258,7 +258,7 @@
           - 🟥 【Datepicker ver 6】: 月を変更可
           - 🟥 【Datepicker ver 7】: 前後の月を表示して選択可能にする
 
-  - ### ✅ HTML ( CSS ) [🔼](#)
+  - ### ✅ HTML [🔼](#)
       - ### 🔷 入力 [🔼](#)
         - [📕 INPUT pattern チェック](https://replit.com/@sworc/html-input-pattern-action)
           - 🟥 【INPUT pattern ver 1】: 数字・全角
