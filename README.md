@@ -257,6 +257,7 @@
           - 🟥 【Datepicker ver 5】: 仮想ダイアログとして開く
           - 🟥 【Datepicker ver 6】: 月を変更可
           - 🟥 【Datepicker ver 7】: 前後の月を表示して選択可能にする
+        - [📕 Tabs と Accordion](https://replit.com/@sworc/js-jquery-ui-tabs-accordion)
 
   - ### ✅ HTML [🔼](#)
       - ### 🔷 入力 [🔼](#)
