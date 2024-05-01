@@ -274,6 +274,8 @@
   - [🟥 HTML 要素: optgroup : コンボボックス用](https://developer.mozilla.org/ja/docs/Web/HTML/Element/optgroup)
   - [🟥 HTML 属性: placeholder](https://developer.mozilla.org/ja/docs/Web/HTML/Attributes/placeholder)
   - [🟥 HTML 属性: data-*](https://developer.mozilla.org/ja/docs/Learn/HTML/Howto/Use_data_attributes)
+  - [📘 FORM リファレンス](https://www.htmq.com/htmls/form.shtml)
+  - [📘 INPUT リファレンス](https://www.htmq.com/htmls/input.shtml)
 
 - ### 📘 [php](https://www.php.net/manual/ja/) [🔼](#)
   - [スーパーグローバル](https://www.php.net/manual/ja/language.variables.superglobals.php)
