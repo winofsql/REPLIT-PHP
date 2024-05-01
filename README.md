@@ -269,7 +269,7 @@
 <br><br>
 ![image](https://winofsql.jp/image/a/GenShinGothic-Heavy.png)
 
-- ### 🔷 HTML [🔼](#)
+- ### 🔷 HTML 要素 [🔼](#)
   - [🟥 HTML 要素: datalist](https://developer.mozilla.org/ja/docs/Web/HTML/Element/datalist)
   - [🟥 HTML 要素: optgroup : コンボボックス用](https://developer.mozilla.org/ja/docs/Web/HTML/Element/optgroup)
   - [🟥 HTML 属性: placeholder](https://developer.mozilla.org/ja/docs/Web/HTML/Attributes/placeholder)
