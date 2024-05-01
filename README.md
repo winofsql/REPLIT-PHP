@@ -34,6 +34,7 @@
       - [📕 アップロード](https://replit.com/@sworc/js-ajax-upload)
       - [📕 外部JSON からテーブル](https://replit.com/@sworc/js-ajax-table)
         - [SQLite3 の内容を JSON で取得 ( WEB > API )](https://replit.com/@sworc/php-json-syain-sqlite3) の実行 URL を使用
+      - [📕 指定したパスのファイル一覧 ( PHP APIセット )](https://replit.com/@sworc/js-ajax-table-php-file-json)
     - ### 🔶 Local-File [🔼](#)
       - [📕 テキストエディタ](https://replit.com/@sworc/js-text-editor)
         - JavaScript で テキストを読み込み ( FileReader )・保存 ( FileSaver.js )
