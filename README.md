@@ -60,6 +60,8 @@
             ![image](https://github.com/winofsql/REPLIT-PHP/assets/1501327/af5a02e1-02b8-4ea7-8fbb-9abec38e0faa)
 
           - [📕 折れ線グラフ ( Google Chart )](https://replit.com/@sworc/js-line-chart)
+         
+          - [📕 コンテンツの Zoom](https://replit.com/@sworc/js-zoom)
 
     - ### 🔶 特殊(js) [🔼](#)
       - [📕 クリックした要素以外を暗転](https://replit.com/@sworc/js-blackout)
