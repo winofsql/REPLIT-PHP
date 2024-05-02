@@ -260,6 +260,10 @@
           - 🟥 【Datepicker ver 5】: 仮想ダイアログとして開く
           - 🟥 【Datepicker ver 6】: 月を変更可
           - 🟥 【Datepicker ver 7】: 前後の月を表示して選択可能にする
+        - [📕 Dialog](https://replit.com/@sworc/js-jquery-ui-dialog)
+          - 🟥 【Dialog ver 1】: デフォルトダイアログ : モードレス
+          - 🟥 【Dialog ver 2】: 選択肢ボタンあり : モーダル
+          - 🟥 【Dialog ver 3】: メッセージダイアログ : モーダル
         - [📕 Tabs と Accordion](https://replit.com/@sworc/js-jquery-ui-tabs-accordion)
 
   - ### ✅ HTML [🔼](#)
