@@ -61,7 +61,7 @@
 
           - [📕 折れ線グラフ ( Google Chart )](https://replit.com/@sworc/js-line-chart)
          
-          - [📕 コンテンツの Zoom](https://replit.com/@sworc/js-zoom)
+        - #### [📕 コンテンツの Zoom](https://replit.com/@sworc/js-zoom)
 
     - ### 🔶 特殊(js) [🔼](#)
       - [📕 クリックした要素以外を暗転](https://replit.com/@sworc/js-blackout)
