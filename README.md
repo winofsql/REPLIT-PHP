@@ -54,6 +54,8 @@
       - ### 🔷 ライブラリ [🔼](#)
         - #### [📕 クリップボード : 画面上のデータをクリップボードにコピー](https://replit.com/@sworc/js-clipboard)  
         - [📕 バルーンによるコンテンツ説明](https://replit.com/@sworc/js-balloon)
+        - [📕 コンテンツの Zoom](https://replit.com/@sworc/js-zoom)
+
         - #### Google Chart : [参考 > スプレッドシートの呼び出し](https://qiita.com/su8/items/534dd3654e6aac38a294)
           - [📕 円グラフ ( Google Chart )](https://replit.com/@sworc/js-pie-chart)
 
@@ -61,8 +63,6 @@
 
           - [📕 折れ線グラフ ( Google Chart )](https://replit.com/@sworc/js-line-chart)
          
-        - #### [📕 コンテンツの Zoom](https://replit.com/@sworc/js-zoom)
-
     - ### 🔶 特殊(js) [🔼](#)
       - [📕 クリックした要素以外を暗転](https://replit.com/@sworc/js-blackout)
       - [📕 四角形 <=> 円 のモーフィングアニメーション](https://replit.com/@sworc/js-box-circle-morphing)
